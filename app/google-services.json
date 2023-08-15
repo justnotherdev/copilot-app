@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "139387821139",
+    "project_id": "copilot-mk1",
+    "storage_bucket": "copilot-mk1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139387821139:android:93c2e4857cdaf90d0e3aa6",
+        "android_client_info": {
+          "package_name": "com.justanotherdev.copilot_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139387821139-o1q6cuq9ta7u930ecs5281jsk87e0d8j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.justanotherdev.copilot_app",
+            "certificate_hash": "b3bb0e02fb884ee3e92a54c38c85c7469d0848da"
+          }
+        },
+        {
+          "client_id": "139387821139-fikjem8rgstjs0r4i5t3bd82h44a1vvq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiWvhnDdcq02Mwo3nvW8QBJ1yOH4pP7cg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139387821139-fikjem8rgstjs0r4i5t3bd82h44a1vvq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

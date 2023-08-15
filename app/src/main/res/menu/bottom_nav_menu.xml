@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/overview"
+        android:icon="@drawable/ic_motorcycle"
+        android:title="Bike" />
+    <item
+        android:id="@+id/map"
+        android:icon="@drawable/ic_travel_explore"
+        android:title="Explore" />
+    <item
+        android:id="@+id/notifications"
+        android:icon="@drawable/ic_notifications"
+        android:title="Notifications" />
+    <item
+        android:id="@+id/diagnosis"
+        android:icon="@drawable/ic_diagnosis"
+        android:title="Diagnostics" />
+</menu>
